@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.3.0-preview-20170427-09" />
+    <PackageReference Include="xunit" Version="2.2.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="HackerRank.userprefs" />
+    <None Remove=".DS_Store" />
+    <None Remove=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Algorithms\" />
+    <Folder Include="Algorithms\1 - Warmup\" />
+    <Folder Include="Algorithms\1 - Warmup\SimpleArraySum\" />
+    <Folder Include="Algorithms\1 - Warmup\AVeryBigSum\" />
+    <Folder Include="Algorithms\1 - Warmup\DiagonalDifference\" />
+    <Folder Include="Algorithms\1 - Warmup\PlusMinus\" />
+    <Folder Include="Algorithms\1 - Warmup\Staircase\" />
+    <Folder Include="Algorithms\1 - Warmup\MiniMaxSum\" />
+    <Folder Include="Algorithms\1 - Warmup\BirthdayCakeCandles\" />
+    <Folder Include="Algorithms\1 - Warmup\TimeConversion\" />
+    <Folder Include="Algorithms\2 - Implementation\" />
+    <Folder Include="Algorithms\2 - Implementation\GradingStudents\" />
+  </ItemGroup>
+</Project>
