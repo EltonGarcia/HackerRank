@@ -30,5 +30,6 @@
     <Folder Include="Algorithms\1 - Warmup\TimeConversion\" />
     <Folder Include="Algorithms\2 - Implementation\" />
     <Folder Include="Algorithms\2 - Implementation\GradingStudents\" />
+    <Folder Include="Algorithms\2 - Implementation\AppleAndOrange\" />
   </ItemGroup>
 </Project>
