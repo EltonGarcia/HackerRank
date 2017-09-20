@@ -31,5 +31,6 @@
     <Folder Include="Algorithms\2 - Implementation\" />
     <Folder Include="Algorithms\2 - Implementation\GradingStudents\" />
     <Folder Include="Algorithms\2 - Implementation\AppleAndOrange\" />
+    <Folder Include="Algorithms\2 - Implementation\Kangaroo\" />
   </ItemGroup>
 </Project>
