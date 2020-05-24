@@ -32,5 +32,6 @@
     <Folder Include="Algorithms\2 - Implementation\GradingStudents\" />
     <Folder Include="Algorithms\2 - Implementation\AppleAndOrange\" />
     <Folder Include="Algorithms\2 - Implementation\Kangaroo\" />
+    <Folder Include="Algorithms\2 - Implementation\BetweenTwoSets\" />
   </ItemGroup>
 </Project>
